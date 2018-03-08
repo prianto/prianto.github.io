@@ -1,0 +1,33 @@
+body {
+  background: url('img/bg.jpg');
+  font-family: 'Berkshire Swash', cursive;
+}
+
+#wrapper {
+  width: 960px;
+  background: white;
+  margin: auto;
+}
+
+#header {
+  background: black;
+  text-align: center;
+  margin-top: 50px;
+}
+
+#logo {
+  width: 200px;
+  margin: 20px;
+}
+
+#content {
+  padding: 20px;
+}
+
+#title {
+  text-align: center;
+}
+
+#feature {
+  width: 100%;
+}
